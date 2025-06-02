@@ -3,6 +3,7 @@
  * @param {number} limit
  * @return {number}
  */
+// https://leetcode.com/problems/distribute-candies-among-children-ii/description
 // O(n) solution 
 var distributeCandies = function(n, limit) {
     let ways = 0; 
